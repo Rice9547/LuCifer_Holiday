@@ -228,15 +228,21 @@ h3{
 }
 
 /*Table*/
-table,th,td{
+.class table,th,td{
     border: 1px solid;
 }
-table{
+.class table{
     margin-left: 5%;
     margin-right: 5%;
 }
-td{
+.class td{
     width: 5%;
+}
+.sponsor table{
+    width: 80%;
+}
+.sponsor img{
+    width: 40%;
 }
 
 /*img*/
