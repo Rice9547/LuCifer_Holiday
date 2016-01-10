@@ -118,6 +118,9 @@ nav {
         padding-right: 2%;
     }
 }
+.bg{
+    background-color: rgba(0,0,0,0.8);;
+}
 #header{
     padding-bottom: 50px;
 }
@@ -180,7 +183,7 @@ nav {
     background-color: #c93f3f;
 }
 .pass{
-    height: 5%;
+    height: 20px;
     background-color: #bc9567;
     margin-left: 10%;
     margin-right: 10%;
